@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+python-dotenv
+supabase
+openai
+pydantic
+tldextract
+readability-lxml
+lxml
