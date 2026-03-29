@@ -1,6 +1,22 @@
+<div align="center">
+
 # VK Product Parser
 
-Python-проект для полуавтоматического наполнения карточек товаров VK по сортам петуний и томатов.
+### Автоматизация карточек товаров для VK Market
+
+<p>
+  Python-проект для полуавтоматического наполнения карточек товаров по сортам петуний и томатов:
+  от поиска источников и генерации описания до локальных фото и публикации в VK Market.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.12" />
+  <img src="https://img.shields.io/badge/OpenAI-API-412991?style=flat-square" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Supabase-Storage%20%26%20Data-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/VK-Market-0077FF?style=flat-square" alt="VK Market" />
+</p>
+
+</div>
 
 ## Что умеет
 
